@@ -5,7 +5,7 @@ const Breadcrumb = () => {
         <li className="inline-flex items-center">
           <a
             href="#"
-            className="hover:text-primary-600 inline-flex items-center text-sm font-medium text-gray-700 dark:text-gray-400 dark:hover:text-white"
+            className="inline-flex items-center text-sm font-medium text-gray-700 hover:text-blue-600 dark:text-gray-400 dark:hover:text-white"
           >
             <svg
               className="me-2 size-4"
@@ -48,7 +48,7 @@ const Breadcrumb = () => {
             </svg>
             <a
               href="#"
-              className="hover:text-primary-600 ms-1 text-sm font-medium text-gray-700 dark:text-gray-400 dark:hover:text-white md:ms-2"
+              className="ms-1 text-sm font-medium text-gray-700 hover:text-blue-600 dark:text-gray-400 dark:hover:text-white md:ms-2"
             >
               Môj životopis
             </a>

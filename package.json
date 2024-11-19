@@ -11,6 +11,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@floating-ui/react": "^0.26.28",
     "flowbite-react": "^0.8.0",
     "next": "^14.2.18",
     "react": "^18",
