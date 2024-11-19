@@ -69,7 +69,11 @@ const Intro = () => {
         </div>
         <div className="rounded-lg border border-gray-200 bg-gray-50 p-4 dark:border-gray-600 dark:bg-gray-700">
           <div className="mb-4 flex shrink-0 items-center space-x-2">
-            <a href="#" title="" className="text-2xl font-semibold">
+            <a
+              href="#"
+              title=""
+              className="text-2xl font-semibold dark:text-white"
+            >
               Niečo o mne
             </a>
           </div>
