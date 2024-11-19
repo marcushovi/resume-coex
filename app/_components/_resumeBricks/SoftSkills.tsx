@@ -9,7 +9,7 @@ const SoftSkills = () => {
           Soft skills
         </h3>
       </div>
-      <div className="mb-4 border-b border-gray-200 pb-4">
+      <div className="mb-4 border-b border-gray-200 pb-4 dark:border-gray-600">
         <h4 className="mt-2 font-semibold text-gray-900 dark:text-white">
           Som týmoví hráč
         </h4>
@@ -18,7 +18,7 @@ const SoftSkills = () => {
           ligách. (Juniori a muži)
         </p>
       </div>
-      <div className="mb-4 border-b border-gray-200 pb-4">
+      <div className="mb-4 border-b border-gray-200 pb-4 dark:border-gray-600">
         <h4 className="mt-2 font-semibold text-gray-900 dark:text-white">
           Zvládám organizáciu času
         </h4>
@@ -26,7 +26,7 @@ const SoftSkills = () => {
           Popri štúdiu na vysokej škole, práci a rodine to inak ani nejde.
         </p>
       </div>
-      <div className="mb-4 border-b border-gray-200 pb-4">
+      <div className="mb-4 border-b border-gray-200 pb-4 dark:border-gray-600">
         <h4 className="mt-2 font-semibold text-gray-900 dark:text-white">
           Rád se vzdelávám
         </h4>
